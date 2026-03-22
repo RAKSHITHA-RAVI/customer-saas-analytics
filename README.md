@@ -1,4 +1,5 @@
 # 🤖 RavenStack Customer Insights Agent
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://ravenstack-insights.streamlit.app)
 
 An **agentic AI + data analytics** system that automatically loads, cleans, clusters, and generates actionable business insights from SaaS customer data — no API key required.
 
