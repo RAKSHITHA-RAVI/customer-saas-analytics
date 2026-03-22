@@ -7,9 +7,9 @@ Built with Python, Streamlit, KMeans clustering, LangGraph, and Plotly.
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard Overview](data/dashboard1.png)
+![Dashboard Overview](data/dashboard2.png)
 
-> Run the app, take a screenshot, save it as `screenshot.png` in the root folder, then replace this line with:
-> `![Dashboard Preview](screenshot.png)`
 
 ---
 
